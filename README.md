@@ -13,5 +13,5 @@ Image Upload: Incorporate a picture for each individual entry.
 
 ### Technologies
 Spring Boot: For robust back-end functionality.
-HTML/CSS/thymeleaf: For a responsive and interactive front-end.
+HTML/CSS/Thymeleaf: For a responsive and interactive front-end.
 Database Management: Efficient handling of data storage and retrieval using a H2 Database.
